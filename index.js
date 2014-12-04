@@ -14,7 +14,7 @@ var debug = false
   }
 });
 if(casper.cli.args.length < 1) {
-  casper.echo("syntax: index.js email password [debug]");
+  casper.echo("syntax: index.js email password");
   casper.exit();
 }
 
