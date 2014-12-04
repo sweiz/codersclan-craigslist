@@ -3,7 +3,7 @@ CraigsList CasperJS login
 
 Login to Craigslist with CasperJS.
 
-## usage
+## Usage
 
 The main component is a CasperJS script that goes through the United.com search process.
 
